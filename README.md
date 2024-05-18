@@ -1,12 +1,12 @@
-<h1 align="center" style="font-weight: bold;">Ecommerce API 💻</h1>
+<h1 align="left" style="font-weight: bold;">Ecommerce API 💻</h1>
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
  <a href="#started">Getting Started</a> • 
- <a href="#colab">Collaborators</a> •
+ 
 </p>
 
-<p align="center">
+<p align="left">
     <b>The project is an API that simulates an e-commerce system. With it, you can list products, add items to the shopping cart, and check out items.
     In the project, authentication is required for some functions, which I will leave below. It is integrated with an SQLite database that allows changes made to be saved.
     To authenticate, please use the following credentials: username: admin and password: 123.</b>
@@ -53,20 +53,5 @@ Create venv in terminal
 -python manage.py run 
 ```
 
-<h2 id="colab">🤝 Collaborators</h2>
 
-Special thank you for contributed for this project with the introductory python course with flask.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="(https://github.com/Rocketseat)" width="100px;" alt="Rocketseat"/><br>
-        <sub>
-          <b>Rocketseat</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
